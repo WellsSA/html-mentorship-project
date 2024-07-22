@@ -7,4 +7,8 @@ html, body {
   height: 65px;
   color: #fff;
   background: #222222;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }

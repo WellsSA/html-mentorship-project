@@ -15,7 +15,7 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
     - [x] Criar estrutura básica da página usando divs e classes
     - [x] Usar inspecionar elementos e/ou extensão para ver as cores da página
     - [x] Usar inspecionar elementos e/ou sources para identificar as fontes da página (tipografia)
-    - [ ] Usar display flex para posicionamento dos elementos
+    - [x] Usar display flex para posicionamento dos elementos
     - [ ] Converter divs para tags semânticas como, por exemplo, `<header>` e `<strong>`
   - [ ] Alterar fonte da página para usar a fonte Inter
   - [ ] Usar `box-sizing: border-box` para mudar o comportamento padrão dos elementos
