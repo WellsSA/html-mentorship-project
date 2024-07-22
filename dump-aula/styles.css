@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: Inter, sans-serif;
+}
+
+.header {
+  height: 65px;
+  width: 100%;
+  color: #fff;
+  background: #222222;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
