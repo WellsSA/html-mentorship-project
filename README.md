@@ -7,7 +7,7 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
 ## Cronograma de aulas práticas
 
 - Aula 01:
-  - [ ] Iniciar o projeto com o arquivo HTML
+  - [x] Iniciar o projeto com o arquivo HTML
   - [ ] Adicionar e referenciar os estilos criando um arquivo CSS
   - [ ] Adicionar o normalize.css para padronização dos estilos entre browsers
   - [ ] Mudar o título da página para "Palestrante - Wellington Almeida"
