@@ -10,7 +10,7 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
   - [x] Iniciar o projeto com o arquivo HTML
   - [x] Adicionar e referenciar os estilos criando um arquivo CSS
   - [x] Adicionar o normalize.css para padronização dos estilos entre browsers
-  - [ ] Mudar o título da página para "Palestrante - Wellington Almeida"
+  - [x] Mudar o título da página para "Palestrante - Wellington Almeida"
   - [ ] Começar criação do header da página
     - [ ] Usar inspecionar elementos e/ou extensão para ver as cores da página
     - [ ] Usar inspecionar elementos e/ou sources para identificar as fontes da página (tipografia)
