@@ -18,4 +18,4 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
       - [x] Alterar fonte da página para usar a fonte Inter
     - [x] Usar display flex para posicionamento dos elementos
     - [x] Converter divs para tags semânticas como, por exemplo, `<header>` e `<strong>`
-  - [ ] Usar `box-sizing: border-box` para mudar o comportamento padrão dos elementos
+    - [x] Usar `box-sizing: border-box` para mudar o comportamento padrão dos elementos e adicionar padding
