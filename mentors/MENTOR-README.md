@@ -24,7 +24,7 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
 - Aula 02:
   - [x] Iniciar a implementação da Section Hero
     - [x] Criar uma section com id "hero"
-    - [ ] Analizar a estrutura da página referencia para definir as 3 divs principais: `hero-image`, `hero-info`, `hero-actions`
+    - [x] Analizar a estrutura da página referencia para definir as 3 divs principais: `hero-image`, `hero-info`, `hero-actions`
     - [ ] `hero-image` deve conter uma imagem usando como source a imagem: [link](https://vp2uploads.s3.amazonaws.com/18443/65/palestrantes/d0658d9008c7237409ef4e4fa8cbca654b3f5fbc.png)
     - [ ] `hero-info` deve ter duas divs: `name-section`, contendo: h1 -> nome e h2 -> profissão; e `socialmedia-section`, contendo 4 spans com os respectivos textos: LinkedIn, Twitter, Facebook, Telegram
     - [ ] `hero-actions` deve ter um botão escrito "Baixar artes de divulgação"
