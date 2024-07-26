@@ -28,7 +28,7 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
     - [x] `hero-image` deve conter uma imagem usando como source a imagem: [link](https://vp2uploads.s3.amazonaws.com/18443/65/palestrantes/d0658d9008c7237409ef4e4fa8cbca654b3f5fbc.png)
     - [x] `hero-info` deve ter duas divs: `name-section`, contendo: h1 -> nome e h2 -> profissão; e `socialmedia-section`, contendo 4 spans com os respectivos textos: LinkedIn, Twitter, Facebook, Telegram
     - [x] `hero-actions` deve ter um botão escrito "Baixar artes de divulgação"
-  - [ ] Aplicar estilização necessária para seguir o layout da referência:
-    - [ ] usar display flex na section `#hero`, e definir propriedades como cor de fundo, padding e afins
+  - [x] Aplicar estilização necessária para seguir o layout da referência:
+    - [x] usar display flex na section `#hero`, e definir propriedades como cor de fundo, padding e afins
     - [ ] `hero-image` deve ter altura e largura de 222px cada e aplicar o border radius na imagem
     - [ ] `hero-info` deve ter altura fixa para suportar o layout, e deve colocar o nome mais acima e as redes sociais mais abaixo. Também, essa section deve estar 32px a direita da section do lado
