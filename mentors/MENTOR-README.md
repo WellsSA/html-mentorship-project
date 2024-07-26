@@ -30,5 +30,5 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
     - [x] `hero-actions` deve ter um botão escrito "Baixar artes de divulgação"
   - [x] Aplicar estilização necessária para seguir o layout da referência:
     - [x] usar display flex na section `#hero`, e definir propriedades como cor de fundo, padding e afins
-    - [ ] `hero-image` deve ter altura e largura de 222px cada e aplicar o border radius na imagem
+    - [x] `hero-image` deve ter altura e largura de 222px cada e aplicar o border radius na imagem
     - [ ] `hero-info` deve ter altura fixa para suportar o layout, e deve colocar o nome mais acima e as redes sociais mais abaixo. Também, essa section deve estar 32px a direita da section do lado
