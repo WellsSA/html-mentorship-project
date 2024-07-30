@@ -6,6 +6,10 @@ html, body {
   font-family: Inter, sans-serif;
 }
 
+button {
+  cursor: pointer;
+}
+
 .header {
   height: 65px;
   width: 100%;
@@ -19,7 +23,6 @@ html, body {
 }
 
 .header-actions button {
-  cursor: pointer;
   background: transparent;
   color: white;
   padding: 6px 14px;
@@ -74,4 +77,18 @@ button:disabled {
   flex-direction: column;
   justify-content: space-around;
   margin-left: 32px;
+}
+
+.hero-actions button {
+  display: flex;
+  align-items: center;
+  padding: 6px 14px 6px 10px;
+  border-radius: 36px;
+  border: none;
+  color: white;
+  background: linear-gradient(to right, rgb(47, 162, 255), rgb(0, 255, 47));
+}
+
+.hero-actions button i {
+  margin-right: 4px;
 }
