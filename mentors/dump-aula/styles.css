@@ -79,6 +79,13 @@ button:disabled {
   margin-left: 32px;
 }
 
+.hero-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
 .hero-actions button {
   display: flex;
   align-items: center;
@@ -91,4 +98,14 @@ button:disabled {
 
 .hero-actions button i {
   margin-right: 4px;
+}
+
+.socialmedia-section i {
+  color: #A1A5A9; 
+  font-size: 26px;
+  margin-right: 15px;
+}
+
+.name-section h2 {
+  font-weight: normal;
 }
