@@ -45,7 +45,7 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
 
   - [ ] Estilize a sessão de informações do palestrante na Hero section
     - [x] Estilize a sessão de `socialmedia-section` para que os ícones tenham a cor `#A1A5A9`, margem à direita de `15px` e tamanho da fonte de `26px`
-    - [ ] Estilize o subtítulo contendo o cargo do palestrante para que o `font-weight` fique `normal`
+    - [x] Estilize o subtítulo contendo o cargo do palestrante para que o `font-weight` fique `normal`
   - [ ] Começar estilização dos botões da aplicação
     - [ ] No botão do topo da página, centralizar o ícone e o texto utilizando o `display: flex` e as devidas propriedades
     - [ ] Use as propriedades CSS `color, background, padding, border-radius, border` para estilizar o botão de acordo com a referência (radius: `36px`, padding: `6px 14px`, border: `1px solid white`)
