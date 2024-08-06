@@ -43,11 +43,11 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
     - [x] Importe os estilos do Font Awesome importando [este stylesheet](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css).
     - [x] use os ícones `linkedin-in`, `twitter`, `facebook-f` e `telegram` do Font Awesome de acordo com a referência, seguindo a estrutura `<i class="fa-brands fa-nome_do_icone"></i>`
 
-  - [ ] Estilize a sessão de informações do palestrante na Hero section
+  - [x] Estilize a sessão de informações do palestrante na Hero section
     - [x] Estilize a sessão de `socialmedia-section` para que os ícones tenham a cor `#A1A5A9`, margem à direita de `15px` e tamanho da fonte de `26px`
     - [x] Estilize o subtítulo contendo o cargo do palestrante para que o `font-weight` fique `normal`
   - [ ] Começar estilização dos botões da aplicação
-    - [ ] No botão do topo da página, centralizar o ícone e o texto utilizando o `display: flex` e as devidas propriedades
+    - [x] No botão do topo da página, centralizar o ícone e o texto utilizando o `display: flex` e as devidas propriedades
     - [ ] Use as propriedades CSS `color, background, padding, border-radius, border` para estilizar o botão de acordo com a referência (radius: `36px`, padding: `6px 14px`, border: `1px solid white`)
     - [ ] Configure o estilo da borda para que usemos a propriedade `hover` para trocar o `border-style` para `outset`; e utilize também `transform: scale(1.02); transition: all ease-in-out;`
     - [ ] Defina estilos globais para que todo `button` tenha `cursor: pointer` e configure um `:disabled` global, com estilos à escolha e usando `cursor: not-allowed`
