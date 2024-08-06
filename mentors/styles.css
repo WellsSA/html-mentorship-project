@@ -76,6 +76,13 @@ button:disabled {
   margin-left: 32px;
 }
 
+.hero-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
 .socialmedia-section i {
   color: #A1A5A9; 
   font-size: 26px;
