@@ -83,6 +83,16 @@ button:disabled {
   flex: 1;
 }
 
+.hero-actions button {
+  display: flex;
+  align-items: center;
+  padding: 6px 14px 6px 10px;
+  border-radius: 36px;
+  border: none;
+  color: white;
+  background: linear-gradient(to right, rgb(47, 162, 255), rgb(0, 255, 47));
+}
+
 .socialmedia-section i {
   color: #A1A5A9; 
   font-size: 26px;
