@@ -38,10 +38,10 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
 
   - [ ] Implementar ícones na aplicação usando [Material Icons](https://fonts.google.com/icons) e [Font Awesome](https://fontawesome.com/icons)
 
-    - [ ] Importe os estilos do Material Icons importando [este stylesheet](https://fonts.googleapis.com/icon?family=Material+Icons).
+    - [x] Importe os estilos do Material Icons importando [este stylesheet](https://fonts.googleapis.com/icon?family=Material+Icons).
     - [ ] use os ícones `vpn_key` e `download` do Material de acordo com a referência, seguindo a estrutura `<i class="material-icons">nome_do_icone</i>`
     - [ ] Importe os estilos do Font Awesome importando [este stylesheet](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css).
-    - [ ] use os ícones `linkedin-in`, `twitter`, `facebook-f` e `telegram` do Font Awesome de acordo com a referência, seguindo a estrutura `<i class="fa-brands fa-nome_do_icone"></i>`.
+    - [ ] use os ícones `linkedin-in`, `twitter`, `facebook-f` e `telegram` do Font Awesome de acordo com a referência, seguindo a estrutura `<i class="fa-brands fa-nome_do_icone"></i>`
 
   - [ ] Estilize a sessão de informações do palestrante na Hero section
     - [ ] estilize os ícones de redes sociais com a cor `#A1A5A9`, tamanho da fonte `26px` e margem direita de `15px`.
