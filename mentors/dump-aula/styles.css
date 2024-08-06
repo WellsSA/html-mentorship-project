@@ -10,6 +10,12 @@ button {
   cursor: pointer;
 }
 
+button:disabled {
+  border: 1px solid #ccc;
+  background: #e0e0e0;
+  cursor: not-allowed;
+}
+
 .header {
   height: 65px;
   width: 100%;
@@ -41,12 +47,6 @@ button {
 
 .header-actions button i {
   margin-right: 8px;
-}
-
-button:disabled {
-  border: 1px solid #ccc;
-  background: #e0e0e0;
-  cursor: not-allowed;
 }
 
 #hero {
