@@ -46,11 +46,12 @@ Página de referência: [Palestrante - Wellington Almeida - Campus Party](https:
   - [x] Estilize a sessão de informações do palestrante na Hero section
     - [x] Estilize a sessão de `socialmedia-section` para que os ícones tenham a cor `#A1A5A9`, margem à direita de `15px` e tamanho da fonte de `26px`
     - [x] Estilize o subtítulo contendo o cargo do palestrante para que o `font-weight` fique `normal`
-  - [ ] Começar estilização dos botões da aplicação
-    - [x] No botão do topo da página, centralizar o ícone e o texto utilizando o `display: flex` e as devidas propriedades
+  - [x] Começar estilização dos botões da aplicação
+    - [x] No botão do topo da página (dentro do `header`), centralizar o ícone e o texto do botão utilizando o `display: flex` e as devidas propriedades
     - [x] Use as propriedades CSS `color, background, padding, border-radius, border` para estilizar o botão de acordo com a referência (radius: `36px`, padding: `6px 14px`, border: `1px solid white`)
     - [x] Configure o estilo da borda para que usemos a propriedade `hover` para trocar o `border-style` para `outset`; e utilize também `transform: scale(1.02); transition: all ease-in-out;`
+    - [x] Adicione estilos para que o ícone dentro do botão tenha uma margem à direita de `8px`
     - [x] Defina estilos globais para que todo `button` tenha `cursor: pointer` e configure um `:disabled` global, com estilos à escolha e usando `cursor: not-allowed`
     - [x] Configure a sessão `hero-actions` para que ela use o `flex: 1` e posicione o botão de ações no centro da sessão
     - [x] Configure o botão dentro de `hero-actions` para que ele tenha um `border-radius` de `36px` e aplique um gradiente linear no `background`, partindo da esquerda para a direita, e partindo da cor `rgb(47, 162, 255)` para a cor `rgb(0, 255, 47)`
-    - [ ] Adicione também estilos para que o ícone do botão dentro de `hero-actions` tenha um `margin-right` de `4px`
+    - [x] Adicione também estilos para que o ícone do botão dentro de `hero-actions` tenha um `margin-right` de `4px`

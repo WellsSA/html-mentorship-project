@@ -1,9 +1,9 @@
-html, body {
-  font-family: Inter, sans-serif;
-}
-
 * {
   box-sizing: border-box;
+}
+
+html, body {
+  font-family: Inter, sans-serif;
 }
 
 button {
@@ -25,7 +25,7 @@ button:disabled {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+  
   padding: 20px 30px;
 }
 
@@ -44,6 +44,10 @@ button:disabled {
   border-style: outset;
   transform: scale(1.02);
   transition: all ease-in-out;
+}
+
+.header-actions button i {
+  margin-right: 8px;
 }
 
 #hero {
