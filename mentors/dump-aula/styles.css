@@ -46,7 +46,7 @@ button {
 button:disabled {
   border: 1px solid #ccc;
   background: #e0e0e0;
-  cursor: not-allowed
+  cursor: not-allowed;
 }
 
 #hero {
