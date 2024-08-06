@@ -93,6 +93,10 @@ button:disabled {
   background: linear-gradient(to right, rgb(47, 162, 255), rgb(0, 255, 47));
 }
 
+.hero-actions button i {
+  margin-right: 4px;
+}
+
 .socialmedia-section i {
   color: #A1A5A9; 
   font-size: 26px;
