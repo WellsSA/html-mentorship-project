@@ -43,7 +43,7 @@ button:disabled {
 .header-actions button:hover {
   border-style: outset;
   transform: scale(1.02);
-  transition: all ease-in-out;
+  transition: all 0.1s ease-in-out;
 }
 
 .header-actions button i {
