@@ -59,5 +59,5 @@ Para começar, crie um fork do repositório
     - [ ] Adicione estilos para que o ícone dentro do botão tenha uma margem à direita de `8px`
     - [ ] Defina estilos globais para que todo `button` tenha `cursor: pointer` e configure um `:disabled` global, com estilos à escolha e usando `cursor: not-allowed`
     - [ ] Configure a sessão `hero-actions` para que ela use o `flex: 1` e posicione o botão de ações no centro da sessão
-    - [ ] Configure o botão dentro de `hero-actions` para que ele tenha um `border-radius` de `36px` e aplique um gradiente linear no `background`, partindo da esquerda para a direita, e partindo da cor `rgb(47, 162, 255)` para a cor `rgb(0, 255, 47)`
+    - [ ] Configure o botão dentro de `hero-actions` para que ele tenha um `border-radius` de `36px` e aplique um gradiente linear no `background`, partindo da esquerda para a direita, e partindo da cor `rgb(47, 162, 255)` para a cor `rgb(0, 255, 47)`. O ícone e o texto devem ser centralizados e o padding deve ser de `6px 14px 6px 10px`.
     - [ ] Adicione também estilos para que o ícone do botão dentro de `hero-actions` tenha um `margin-right` de `4px`
